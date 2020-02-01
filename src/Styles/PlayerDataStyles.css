@@ -1,0 +1,14 @@
+#borderpane{
+    -fx-background-image: url('../Images/background.jpg');
+    -fx-background-size: cover;
+}
+
+#labelPlayer{
+    -fx-font-size: 30px;
+    -fx-text-fill: #FFFFFF;
+}
+
+#textFieldPlayer{
+    -fx-max-width: 300;
+    -fx-max-height: 20;
+}

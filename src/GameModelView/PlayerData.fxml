@@ -1,0 +1,13 @@
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+
+<BorderPane fx:controller="GameModelView.PlayerDataController" xmlns:fx="http://javafx.com/fxml" fx:id="borderpane" stylesheets="@../Styles/PlayerDataStyles.css">
+    <center>
+        <VBox alignment="CENTER" spacing="20">
+            <Label fx:id="labelPlayer" />
+            <TextField fx:id="textFieldPlayer"/>
+        </VBox>
+    </center>
+</BorderPane>

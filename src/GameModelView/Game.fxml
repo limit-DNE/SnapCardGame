@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" fx:controller="GameModelView.GameController" prefHeight="900.0" prefWidth="600.0" fx:id="borderpane" stylesheets="@../Styles/GameStyles.css">
+    <top>
+        <VBox alignment="TOP_CENTER" fx:id="vBoxTop">
+        </VBox>
+    </top>
+    <center>
+        <VBox alignment="CENTER" fx:id="vBoxMiddle">
+        </VBox>
+    </center>
+    <bottom>
+        <VBox alignment="TOP_CENTER" fx:id="vBoxBottom">
+        </VBox>
+    </bottom>
+</BorderPane>

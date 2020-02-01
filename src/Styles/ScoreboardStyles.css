@@ -1,0 +1,28 @@
+#borderpane{
+    -fx-background-image: url('../Images/scoreBlack.jpg');
+    -fx-background-size: cover;
+}
+
+#labelName{
+    -fx-padding: 5px, 0, 0, 0;
+    -fx-font-size: 35px;
+    -fx-text-fill: #FF3300;
+ }
+
+#labelScore{
+    -fx-padding: 50px, 0px, 0, 0px;
+    -fx-font-size: 28px;
+    -fx-text-fill: #FFFFFF;
+}
+
+#labelWinner{
+    -fx-padding: 50px, 0px, 0, 0px;
+    -fx-font-size: 28px;
+    -fx-text-fill: #FFFFFF;
+}
+
+#restartButton{
+    -fx-font-size: 18px;
+    -fx-text-fill: #FF3300;
+    -fx-background-color: #FFFFFF;
+}

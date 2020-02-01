@@ -1,0 +1,26 @@
+#borderpane{
+    -fx-background-image: url('../Images/gameBackground.jpg');
+    -fx-background-size: cover;
+}
+
+#labelTop{
+    -fx-padding: 50px, 0, 0, 0;
+    -fx-font-size: 28px;
+    -fx-text-fill: #FFFFFF;
+}
+
+#labelBottom{
+    -fx-padding: 50px, 0, 0, 0;
+    -fx-font-size: 28px;
+    -fx-text-fill: #FFFFFF;
+}
+
+#imageViewTop{
+}
+
+#imageViewMiddle{
+
+}
+
+#imageViewBottom{
+}
